@@ -1,0 +1,23 @@
+# secrets / local config
+.env
+*.env
+**/config.json
+**/settings-store.json
+*api-key*
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# logs
+*.log
+
+# editor
+.vscode/
+.idea/
