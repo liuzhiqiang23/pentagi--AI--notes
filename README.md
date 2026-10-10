@@ -8,7 +8,7 @@
 [![lang](https://img.shields.io/badge/文档-中文-red)](#)
 [![stars](https://img.shields.io/github/stars/liuzhiqiang23/pentagi--AI--notes?style=social)](https://github.com/liuzhiqiang23/pentagi--AI--notes/stargazers)
 
-**[中文](#这个仓库是什么) | [English](#english)**
+**[中文](./README.md) | [English](./README_EN.md)**
 
 </div>
 
